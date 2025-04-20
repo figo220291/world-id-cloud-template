@@ -25,7 +25,8 @@ To learn more about Next.js and World ID, take a look at the following resources
 
 -   [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 -   [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
--   [World ID Documentation](https://docs.worldcoin.org/) - learn about World ID features and API.
+-   [World ID Documentation](https://
+-   docs.worldcoin.org/) - learn about World ID features and API.
 
 ## Deploy on Vercel
 
