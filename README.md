@@ -1,6 +1,8 @@
 # World ID Next.js Template
 
-This is a template repository for creating a new project using Next.js, TailwindCSS, and the [World ID SDK](https://id.worldcoin.org). This template isn't intended for use cases that require on-chain verification, but rather for use cases that leverage off-chain web backend verification.
+This is a template repository for creating a new project using Next.js, TailwindCSS, and the [World ID SDK](
+
+). This template isn't intended for use cases that require on-chain verification, but rather for use cases that leverage off-chain web backend verification.
 
 ## Getting Started
 
@@ -25,7 +27,8 @@ To learn more about Next.js and World ID, take a look at the following resources
 
 -   [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 -   [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
--   [World ID Documentation](https://docs.worldcoin.org/) - learn about World ID features and API.
+-   [World ID Documentation](https
+-   ://docs.worldcoin.org/) - learn about World ID features and API.
 
 ## Deploy on Vercel
 
